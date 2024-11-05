@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shop_radix/static/css/main.a6f477e5.css",
+    "main.js": "/shop_radix/static/js/main.3afd19f1.js",
+    "static/media/tovar_01.webp": "/shop_radix/static/media/tovar_01.598c8abf2fdbe3a3ce52.webp",
+    "static/media/tovar_03.webp": "/shop_radix/static/media/tovar_03.0b7e9b5aa721a68320f0.webp",
+    "static/media/tovar_02.webp": "/shop_radix/static/media/tovar_02.f39be781c1ac7295aa80.webp",
+    "static/media/slick.svg": "/shop_radix/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/shop_radix/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/shop_radix/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/shop_radix/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/shop_radix/index.html",
+    "main.a6f477e5.css.map": "/shop_radix/static/css/main.a6f477e5.css.map",
+    "main.3afd19f1.js.map": "/shop_radix/static/js/main.3afd19f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f477e5.css",
+    "static/js/main.3afd19f1.js"
+  ]
+}
